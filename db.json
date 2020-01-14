@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,48 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "212 Burger",
+      "description": "yummy Burger",
+      "burgerImage": "https://www.thespruceeats.com/thmb/xZU__qGyThuUAq8mTosBd1cmLAs=/1333x1000/smart/filters:no_upscale()/juicy-baked-burgers-3052097-7-5b1054308e1b6e0036bc6cd1.jpg",
+      "id": 12
+    },
+    {
+      "name": "burger zoo",
+      "description": "yumzzyyy",
+      "burgerImage": "https://assets3.thrillist.com/v1/image/2840883/size/tl-horizontal_main_2x.jpg",
+      "id": 13
+    },
+    {
+      "name": "burger zoo",
+      "description": "yumzzyyy",
+      "burgerImage": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/umami-bomb-burgers-ck.jpg",
+      "id": 14
+    },
+    {
+      "name": "hghg",
+      "description": "eee",
+      "burgerImage": "https://www.budgetbytes.com/wp-content/uploads/2011/06/Sloppy-Joes-Plus-sandwich.jpg",
+      "id": 15
+    },
+    {
+      "name": "ww",
+      "description": "ee",
+      "burgerImage": "https://cookieandkate.com/images/2013/05/sweet-potato-black-bean-veggie-burgers-recipe-0.jpg",
+      "id": 16
+    },
+    {
+      "name": "hellooooooyay",
+      "description": "hehehehhehe",
+      "burgerImage": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg",
+      "id": 17
+    },
+    {
+      "name": "ss",
+      "description": "ss",
+      "image": "https://www.lovelesscafe.com/uploads/recipeimages/BBQBaconBurger-web.jpg",
+      "id": 18
     }
   ]
 }
